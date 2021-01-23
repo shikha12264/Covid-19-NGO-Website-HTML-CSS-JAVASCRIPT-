@@ -1,2 +1,2 @@
-# Covid-19-NGO-Website-HTML-CS-JAVASCRIPT-
+# Covid-19-NGO-Website-HTML-CSS-JAVASCRIPT-
 HTML-CS-JAVASCRIPT Based website
