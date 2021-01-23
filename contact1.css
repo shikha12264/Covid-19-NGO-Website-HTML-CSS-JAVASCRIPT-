@@ -1,0 +1,468 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+
+body
+{
+font: 15px/1.5 'Raleway';
+margin: 0;
+padding: 0;
+background: #f3f8ff;
+box-sizing: border-box;
+font-family: 'Raleway';
+}
+html
+{
+  scroll-behavior: smooth;
+}
+header
+{
+  font: 20px/1.5 'Raleway';/*go corona size*/
+  background:#00a8cc;
+  color: #ffffff;/*go corona*/
+  padding-top: 1px;/*upper border upper height*/
+  height: 85px;/*upper border bottom height*/
+  border-bottom:#00a8cc 10px solid;
+}
+
+/*home about contact us*/
+header a{
+  color:#ffffff;  
+  text-decoration:none;
+  text-transform:uppercase;
+  font-size:17px;/*home about size*/
+}
+
+header li{
+  display:inline;
+  padding: 0 20px 0 20px; /*dist bet home about*/
+}
+
+header #branding{
+  float:center; /*home...position*/
+}
+
+header #branding h1{
+  margin:0;
+  font-weight:bolder;
+}
+
+header nav
+{
+  float:right;
+  margin-top:-120px;
+}
+
+header .highlight, header .current a{
+  color:#fff;
+  font-weight:bold;
+  font-size: 25px;/*home size*/
+}
+
+.highlighted{
+  font-weight:bolder;
+  
+}
+
+/*underline animation*/
+header a {        
+  position: relative;
+}
+
+header a::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -3px;
+  width: 60%;
+  height: 1px;
+  opacity: 0;
+  background-color: #a2d5f2;
+  transform: translate(-50%, 0);
+  transition: all 0.3s ease-in-out;
+}
+
+header a:hover::after {
+  width: 100%;
+  opacity: 1;
+}
+.container
+{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+#top {  /*mail button*/
+    padding: 20px; /*blue border size*/
+    border-top: #00a8cc 3px solid;
+    min-height: 70px;
+    font-family: "Raleway";
+	background-image:url("cbg.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#bottom {  /*mail button*/
+    padding: 15px; /*blue border size*/
+    color: #ffffff;
+    background: #00a8cc;
+    border-top: #00a8cc 3px solid;
+    min-height: 70px;
+    font-family: "Raleway";
+}
+
+#bottom h1{
+  float:left;
+  color: #fff;
+  font-size: 28px;
+   font-weight: 595;
+}
+
+#bottom form {
+  float:center;
+  
+}
+
+#bottom input[type="email"]{
+  padding:4px;
+  height: 25px;
+  width:250px;
+  padding: 6px 10px;
+  font-family: "Raleway";
+  background: #00a8cc;
+  border: solid 2px #fff;
+  color: #fff;
+}
+
+#bottom input[type="email"]:hover{
+  background-color: #fff;
+  color: #00a8cc;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #fff;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #fff;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #fff;
+}
+
+#bottom input[type="email"]:hover::placeholder{ /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #00a8cc;
+  opacity: 1; /* Firefox */
+}
+
+#bottom input[type="email"]:hover:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #fff;
+}
+
+#bottom input[type="email"]:hover::-ms-input-placeholder { /* Microsoft Edge */
+  color: #fff;
+}
+
+.button_1 { /*subscribe button*/
+    font-family: "Raleway";
+    height: 41px;
+    background: #00a8cc;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #fff;
+    border-radius: 50px;
+    border: solid 2px #fff;
+}
+
+.button_1:hover{
+  background-color: #fff;
+  color: #000;
+}
+
+#bottomcontainer {
+    padding: 15px;
+    color: #ffffff;
+    background: #000;
+    border-top: #000 3px solid;
+    min-height: 70px;
+    font-family: "Raleway";
+}
+
+.bottomcontainer{
+  width: 80%;
+  margin: auto;
+}
+
+#bottomcontainer h1{
+  float:left;
+  margin-left: 100px;
+}
+
+#bottomcontainer form {
+  float:right;
+  margin-top:15px;
+  margin-right: 100px;
+}
+
+#frames{
+  text-align: center;
+  padding:15px 0px;
+  color: #000;  /*text heading*/
+  min-height:50px;
+  background: #f3f8ff;  /* category part */
+  font-family: "Raleway";
+}
+
+#frames p{
+  font-size: 36px;  /*title size*/
+  font-weight: bold; 
+}
+
+#info{
+  background: #d7fffd;
+  color: #000;
+  font-size: 12px;
+   font-weight: 200;
+}
+.icons {
+  margin-top: 25px;
+}
+.icons a {
+  display: inline-block;
+  width: 32px;
+  height: 35px;
+  cursor: pointer;
+  background: #00a8cc;
+  background-color:#00a8cc;
+  border-radius: 50px;
+  border: 1px solid #fff;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 35px;
+  margin-right: 3px; /*dist bet icons*/
+  margin-bottom: 5px;
+}
+
+
+.background 
+{
+  background-image:url("bg2.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.contact
+{
+position:relative;
+min-height:100vh;
+padding: 50px 100px;
+display: flex;
+justify-content:center;
+align-items:center;
+flex-direction:column;
+background: url(bg.png);
+background-size:cover;
+}
+.contact .content
+{
+max-width: 800px;
+text-align: center;
+}
+.contact .content h2
+{
+ font-size: 36px;
+ font-weight: 500;
+ color: #fff;
+}
+.contact .content p
+{
+ font-weight: 300;
+ color: #fff;
+}
+.container
+{
+width: 100%;
+display: flex;
+justify-content:center;
+align-items:center;
+margin-top: 30px;
+}
+.container .contactInfo
+{
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+}
+.container .contactInfo .box
+{
+	position: relative;
+	padding: 20px 0;
+	display: flex;
+}
+.container .contactInfo .box .icon
+{
+	min-width: 60px;
+	height: 60px;
+	background: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+	font-size:22px;
+}
+.container .contactInfo .box .text
+{
+	display: flex;
+	margin-left: 20px;
+	font-size:16px;
+	color: #fff;
+	flex-direction: column;
+	font-weight:300;
+}
+.container .contactInfo .box .text h3
+{
+	font-weight: 500;
+	color: #00bcd4;
+}
+.contactForm
+{
+	width: 40%;
+	padding: 40px;
+	background: #fff;
+}
+.contactForm h2
+{
+	font-size: 30px;
+	color: #333;
+	font-weight: 500;
+}
+.contactForm .inputBox
+{
+	position: relative;
+	width: 100%;
+	margin-top: 10px;
+}
+.contactForm .inputBox input,
+.contactForm .inputBox textarea
+{
+	width:100%;
+	padding:5px 0;
+	font-size:16px;
+	margin:10px 0;
+	border:none;
+	border-bottom: 2px solid #333;
+	outline:none;
+	resize:none;
+}
+.contactForm .inputBox span
+{
+	position: absolute;
+	left: 0;
+	padding: 5px 0;
+	font-size: 16px;
+	margin: 10px 0;
+	transition: 0.5s;
+	color: #666;
+}
+.contactForm .inputBox input:focus ~ span,
+.contactForm .inputBox input:valid ~ span,
+.contactForm .inputBox textarea:focus ~ span,
+.contactForm .inputBox textarea:valid ~ span
+{
+	color: #e91e63;
+	font-size:12px;
+	transform: translateY(-20px);
+}
+.contactForm .inputBox input[type="submit"]
+{
+	width: 100px;
+	background: #00bcd4;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	padding: 10px;
+	font-size:18px;
+	
+}
+@media (max-width: 991px)
+{
+	.contact
+	{
+		padding: 50px;
+	}
+	
+	.container
+	{
+		flex-direction: column;
+	}
+    .container .contactInfo
+	{
+		margin-bottom: 40px;
+	}
+	.container .contactInfo,
+	.contactForm
+	{
+		width: 100%;
+    }
+	
+.contact-form
+{
+width: 85%;
+max-width: 600px;
+background: #f1f1f1;
+position:relative;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+padding:30px 40px;
+box-sizing: border-box;
+border-radius:8px;
+text-align: center;
+box-shadow: 0 0 20px #000000b3;
+font-family: "Montserrat",sans-serif;
+}
+.contact-form h1
+{
+	margin-top: 0;
+	font-weight: 200;
+}
+.txtb
+{
+	border:1px solid gray;
+	margin: 8px 0;
+	padding: 12px 18px;
+	border-radius: 8px;
+}
+.txtb label
+{
+	display: block;
+	text-align: left;
+	color: #333;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+.txtb input,.txtb textarea
+{
+	width: 100%;
+	border: none;
+	background:none;
+	outline: none;
+	font-size: 18px;
+	margin-top: 6px;
+}
+.btn
+{
+	display; block;
+	background: #9b59b6;
+	padding: 14px 0;
+	color:white;
+	text-transform:uppercase;
+	cursor:pointer;
+	margin-top: 8px;
+	width: 100%;
+}
+
+	
+    
+

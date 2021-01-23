@@ -1,0 +1,721 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+/*main background part*/
+body{
+  font: 15px/1.5 'Raleway';
+  padding:0;
+  margin:0;
+  background: #f3f8ff;
+}
+/*scrolling*/
+html {
+  scroll-behavior: smooth;
+}
+/*upper border part*/
+header{
+  font: 20px/1.5 'Raleway'; /*go corona size*/
+  background: #00a8cc;
+  color: #ffffff;  /*go corona*/
+  padding-top: 30px; /*upper border upper height*/
+  min-height: 50px; /*upper border bottom height*/
+  border-bottom: #00a8cc 6px solid;
+}
+
+/*home about contact us*/
+header a{
+  color:#ffffff;  
+  text-decoration:none;
+  text-transform: uppercase;
+  font-size:16px; /*home about size*/
+}
+
+header li{
+  display:inline;
+  padding: 0 20px 0 20px; /*dist bet home about*/
+}
+
+header #branding{
+  float:center; /*home...position*/
+}
+
+header #branding h1{
+  margin:0;
+  font-weight:bolder;
+}
+
+header nav{
+  float:right;
+  margin-top:-40px;
+}
+
+header .highlight, header .current a{
+  color:#fff;
+  font-weight:bold;
+  font-size: 30px; /*home size*/
+}
+
+.highlighted{
+  font-weight:bolder;
+}
+
+/*underline animation*/
+header a {        
+  position: relative;
+}
+
+header a::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -3px;
+  width: 60%;
+  height: 1px;
+  opacity: 0;
+  background-color: #a2d5f2;
+  transform: translate(-50%, 0);
+  transition: all 0.3s ease-in-out;
+}
+
+header a:hover::after {
+  width: 100%;
+  opacity: 1;
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+/** SLIDESHOW corona warriors**/
+#showcase{
+  min-height: 419px;
+  background-position: center;
+  background-size: cover;
+
+}
+
+ul{
+  margin: 0;
+}
+
+.slideshow {
+  list-style-type: none;
+}
+
+
+.slideshow,
+.slideshow:after { 
+    top: -16px; 
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    z-index: 0; 
+}
+
+.slideshow li span { 
+    position: absolute;
+    width: 100%;
+    height: 419px;
+    left: 0px;
+    color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    opacity: 0;
+    z-index: 0;
+    animation: imageAnimation 30s linear infinite 0s; 
+}
+
+.slideshow li:nth-child(1) span { 
+    background-image: url('../pro/doc1.png.jpg');
+}
+.slideshow li:nth-child(2) span { 
+    background-image: url('../pro/pol1.png.jpg');
+    animation-delay: 6s; 
+}
+.slideshow li:nth-child(3) span { 
+    background-image: url('../pro/doc2.png.jpg');
+    animation-delay: 12s; 
+}
+.slideshow li:nth-child(4) span { 
+    background-image: url('../pro/pol2.png.jpg');   
+    animation-delay: 18s; 
+}
+.slideshow li:nth-child(5) span { 
+    background-image: url('../pro/doc3.png.jpg');
+    animation-delay: 24s; 
+}
+.slideshow li:nth-child(6) span { 
+    background-image: url('../pro/pol3.png.jpg');
+    animation-delay: 30s; 
+}
+.slideshow li:nth-child(7) span { 
+    background-image: url('../pro/doc4.png.jpg');   
+    animation-delay: 36s; 
+}
+.slideshow li:nth-child(8) span { 
+    background-image: url('../pro/pol4.png.jpg');
+    animation-delay: 42s; 
+}
+
+@keyframes imageAnimation { 
+    0% { opacity: 0; animation-timing-function: ease-in; }
+    8% { opacity: 1; animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@keyframes titleAnimation { 
+    0% { opacity: 0 }
+    8% { opacity: 1 }
+    17% { opacity: 1 }
+    19% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+.no-cssanimations .cb-slideshow li span {
+  opacity: 1;
+}
+/*SUBSCRIBE*/
+#bottom {  /*mail button*/
+    padding: 15px; /*blue border size*/
+    color: #ffffff;
+    background: #00a8cc;
+    border-top: #00a8cc 3px solid;
+    min-height: 70px;
+    font-family: "Raleway";
+}
+
+#bottom h1{
+  float:left;
+  color: #fff;
+  font-size: 28px;
+   font-weight: 595;
+}
+
+#bottom form {
+  float:center;
+  
+}
+
+#bottom input[type="email"]{
+  padding:4px;
+  height: 25px;
+  width:250px;
+  padding: 6px 10px;
+  font-family: "Raleway";
+  background: #00a8cc;
+  border: solid 2px #fff;
+  color: #fff;
+}
+
+#bottom input[type="email"]:hover{
+  background-color: #fff;
+  color: #00a8cc;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #fff;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #fff;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #fff;
+}
+
+#bottom input[type="email"]:hover::placeholder{ /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #00a8cc;
+  opacity: 1; /* Firefox */
+}
+
+#bottom input[type="email"]:hover:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #fff;
+}
+
+#bottom input[type="email"]:hover::-ms-input-placeholder { /* Microsoft Edge */
+  color: #fff;
+}
+
+.button_1 { /*subscribe button*/
+    font-family: "Raleway";
+    height: 41px;
+    background: #00a8cc;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #fff;
+    border-radius: 50px;
+    border: solid 2px #fff;
+}
+
+.button_1:hover{
+  background-color: #fff;
+  color: #000;
+}
+
+#bottomcontainer {
+    padding: 15px;
+    color: #ffffff;
+    background: #000;
+    border-top: #000 3px solid;
+    min-height: 70px;
+    font-family: "Raleway";
+}
+
+.bottomcontainer{
+  width: 80%;
+  margin: auto;
+}
+
+#bottomcontainer h1{
+  float:left;
+  margin-left: 100px;
+}
+
+#bottomcontainer form {
+  float:right;
+  margin-top:15px;
+  margin-right: 100px;
+}
+
+
+#frames{
+  text-align: center;
+  padding:15px 0px;
+  color: #000;  /*text heading*/
+  min-height:50px;
+  background: #f3f8ff;  /* category part */
+  font-family: "Raleway";
+}
+
+#frames p{
+  font-size: 36px;  /*title size*/
+  font-weight: bold; 
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 30%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.story {
+    min-height: 340px; /*box height */
+    display: inline-block;
+    width: 31%; /*to keep them in vertical or hori format*/
+    position: relative;
+    margin: 5px 10px; /*distance between title n boxes*/
+    background: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.1);
+    -webkit-transition: all .5s cubic-bezier(.25,.8,.25,1);
+    transition: all .5s cubic-bezier(.25,.8,.25,1);
+}
+
+
+element.style {
+    width: 100%;
+    height: 225px;
+    object-fit: cover;
+}
+.slick-slide img {
+    display: block;
+}
+img, svg {
+    vertical-align: middle;
+}
+img {
+    border-style: none;
+}
+.storyDetail {
+    padding: 20px 20px 0px; /*3 boxes in same line*/
+}
+
+.storyName {
+    color: #51505d;
+    font-size: 30px; /*masks sani...*/
+    line-height: 35px; /*dist between mask n tagline*/
+    padding: 0 0 15px; /* || */
+}
+
+.storyInfo {
+    font-size: 23px;  /*masks n all ka description*/
+    font-weight: 300;
+    color: #000;
+}
+
+#title1{
+  border-width: 100px;
+  border-top:100px solid; 
+  background: #00bcd4;
+  color: #f3f8ff;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+#title2{
+  background: #7fdbda;
+  color: #000;
+  font-size: 14px;
+  font-weight: 200;
+  border-bottom: 100px;
+}
+
+#title3{
+  background: #00bcd4;
+  color: #f3f8ff;
+  font-size: 15px;
+  font-weight: 200;
+  border-top:100px solid;
+}
+
+#info{
+  background: #7fdbda;
+  color: #000;
+  font-size: 12px;
+   font-weight: 200;
+}
+ 
+#text{
+  background: #7fdbda;
+  float: right;
+  margin: 8px 0 0 20px;
+  padding: 4px;
+  border-bottom: 80px solid;
+  border-bottom-color:#f3f8ff;
+}
+
+.icons {
+  margin-top: 25px;
+}
+.icons a {
+  display: inline-block;
+  width: 32px;
+  height: 35px;
+  cursor: pointer;
+  background: #00a8cc;
+  background-color:#00a8cc;
+  border-radius: 50px;
+  border: 1px solid #fff;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 35px;
+  margin-right: 3px; /*dist bet icons*/
+  margin-bottom: 5px;
+}
+
+/** SLIDESHOW corona warriors**/
+
+#show{
+  min-height: 419px;
+  background-position: center;
+  background-size: cover;
+
+}
+ul{
+  margin: 0;
+}
+
+.slides {
+  list-style-type: none;
+}
+
+
+.slides,
+.slides:after { 
+    top: -16px; 
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    z-index: 0; 
+}
+
+.slides li span { 
+    position: absolute;
+    width: 100%;
+    height: 419px;
+    left: 0px;
+    color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    opacity: 0;
+    z-index: 0;
+    animation: imageAnimation 30s linear infinite 0s; 
+}
+
+.slides li:nth-child(1) span { 
+    background-image: url('../pro/pict1.png.jpg.jpg');
+}
+.slides li:nth-child(2) span { 
+    background-image: url('../pro/pict2.png.jpg.jpg');
+    animation-delay: 6s; 
+}
+.slides li:nth-child(3) span { 
+    background-image: url('../pro/pict3.png.jpg.jpg');
+    animation-delay: 12s; 
+}
+.slides li:nth-child(4) span { 
+    background-image: url('../pro/pict4.png.jpg.jpg');   
+    animation-delay: 18s; 
+}
+.slides li:nth-child(5) span { 
+    background-image: url('../pro/pict5.png.jpg.jpg');
+    animation-delay: 24s; 
+}
+.slides li:nth-child(6) span { 
+    background-image: url('../pro/pict6.png');
+    animation-delay: 30s; 
+}
+.slides li:nth-child(7) span { 
+    background-image: url('../pro/pict7.png');   
+    animation-delay: 36s; 
+}
+ 
+}
+
+@keyframes imageAnimation { 
+    0% { opacity: 0; animation-timing-function: ease-in; }
+    8% { opacity: 1; animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@keyframes titleAnimation { 
+    0% { opacity: 0 }
+    8% { opacity: 1 }
+    17% { opacity: 1 }
+    19% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+.no-cssanimations .cb-slides li span {
+  opacity: 1;
+}
+
+/*slider*/
+.slider {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  overflow-x: auto;
+  
+  color: #f3f8ff;
+}
+.slide {
+  width: 0;
+  flex-shrink: 0;
+  height: 100%;
+}
+
+
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 400px;
+  left:0;
+  right:0;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+  padding: 20px 20px 0px;
+  display: inline-block;
+  width: 31%; /*to keep them in vertical or hori format*/
+  position: relative;
+  border-top: 60px solid;
+  border-bottom: 60px solid;
+  color:#f3f8ff;
+}
+
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
+
+/* Style the back side */
+.flip-card-back {
+  background-color: #a6dcef;
+  color: #000;
+  transform: rotateY(180deg);
+}
+
+.inform {
+  border-top: 100px solid;
+  color: #f3f8ff;
+  padding: 150px; /*image size*/
+  text-align: left;
+  background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../pro/img19.jpg") ; 
+  background-repeat: no-repeat;
+  letter-spacing: 5px;
+  word-spacing: 5px;
+  font-weight:300;
+  line-height: 1.2;
+}
+
+.about{
+  margin-top: 100px;
+  white-space: nowrap;
+  margin-left: 100px;
+  text-transform: uppercase;
+  font-family: "Raleway";
+  font-size: 60px;
+  background: #7fdbda;
+  float: right;
+  margin: 8px 0 0 20px;
+  padding: 4px;
+ }
+
+.button{
+  margin-top:10%;
+}
+
+.bton{
+  top:200%;
+  margin-left: 600px;
+  top:100px;
+  border:1px solid #000;
+  padding:10px 30px;
+  color:white;
+  text-decoration:none;
+  margin-top:10%;
+  transition:0.6s ease;
+  cursor:pointer;
+}
+
+.bton:hover{
+  background-color:#fff;
+  color:#000;
+  text-decoration:none;
+}
+
+.glow {
+  font-size: 50px;
+  color: #000;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #000, 0 0 20px #fff, 0 0 30px #00b7c2, 0 0 40px #00b7c2, 0 0 50px #00b7c2, 
+    0 0 60px #00b7c2, 0 0 70px #00b7c2;
+  }
+  to {
+    text-shadow: 0 0 20px #000, 0 0 30px #0779e4, 0 0 40px #0779e4, 0 0 50px #0779e4, 0 0 60px #0779e4,
+     0 0 70px #0779e4, 0 0 80px #0779e4;
+  }
+}
+
+.details{
+  background-color: rgb(0,168,204,0.5) ;
+  text-align:left;
+  margin-top:40px;
+  font-size:15px;
+  border-top: 30px;
+}
+
+.img{
+  margin-top:3%;
+     float:left;
+    margin-left:30px;
+    margin-right:40px;
+}
+
+.post{
+  display:inline;
+  color:#000;
+  text-align:left;  
+  font-weight:500;
+  font-size:20px;
+  word-spacing:2px;
+  margin-right:3%;
+
+}
+
+.button2{
+  margin-top:2%;
+}
+
+.bton2{
+  top:200%;
+  margin-left: 700px;
+  top:100px;
+  border:1px solid #000;
+  padding:10px 30px;
+  color:#000;
+  text-decoration:none;
+  margin-top:10%;
+  transition:0.6s ease;
+  cursor:pointer;
+}
+
+.bton2:hover{
+  background-color:#fff;
+  color:#000;
+  text-decoration:none;
+}
+
+.button3{
+  margin-top:-3%;
+}
+
+.bton3{
+  top:200%;
+  margin-left: 600px;
+  top:100px;
+  border:1px solid #000;
+  background-color: #fff;
+  padding:10px 30px;
+  color:black;
+  text-decoration:none;
+  margin-top:10%;
+  transition:0.6s ease;
+  cursor:pointer;
+}
+
+.bton3:hover{
+  background-color:#000;
+  color:#fff;
+  text-decoration:none;
+}
