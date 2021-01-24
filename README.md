@@ -242,15 +242,77 @@ Video Gallery
 On clicking video gallery a page will be opened that will showcase all the coverages of our donation drives, achievements and accomplishments.
 
 ![image](https://user-images.githubusercontent.com/64529469/105631687-b1141500-5e75-11eb-9c54-94b98f6346b9.png)
+![image](https://user-images.githubusercontent.com/64529469/105631732-e9b3ee80-5e75-11eb-9b80-83757d43c424.png)
+![image](https://user-images.githubusercontent.com/64529469/105631742-f89aa100-5e75-11eb-850b-d5a3daf88b1e.png)
+
+So,this is how these further videos will appear with the description below.
+After clicking the video, you’ll be able to view that particular video.
+
+![image](https://user-images.githubusercontent.com/64529469/105631766-19fb8d00-5e76-11eb-8933-2c5d6f01905f.png)
+![image](https://user-images.githubusercontent.com/64529469/105631769-1d8f1400-5e76-11eb-8349-daec0d8e8f30.png)
+![image](https://user-images.githubusercontent.com/64529469/105631772-24b62200-5e76-11eb-916a-5a2946071dfa.png)
+
+Featured Missions – 
+This section gives you a journey of what exactly our Ngo believes in and implements on.
+On clicking “Donate for the underprivileged” you will be directed to the donation page 
+Mission 1 – 
+
+![image](https://user-images.githubusercontent.com/64529469/105631799-44e5e100-5e76-11eb-9771-99ab898edf21.png)
 
 
+After clicking on read more >>
+You will be directed towards a page including all the information regarding that particular mission and how you can come forward as a fundraiser for the mission.
+Menu with pagination, Image , section frames with text cards , sticky donation button at the bottom.
 
-Slide 1 – 
+![image](https://user-images.githubusercontent.com/64529469/105631820-60e98280-5e76-11eb-809a-49e6de178291.png)
+![image](https://user-images.githubusercontent.com/64529469/105631822-647d0980-5e76-11eb-94cc-2b40354c58ab.png)
+![image](https://user-images.githubusercontent.com/64529469/105631828-6ba41780-5e76-11eb-879e-3210e0bef229.png)
 
+Iframes cards including image and text (alignment using tables)
 
+![image](https://user-images.githubusercontent.com/64529469/105631850-8bd3d680-5e76-11eb-95f7-3ae07e4bb82e.png)
 
+Images besides text
 
+![image](https://user-images.githubusercontent.com/64529469/105631877-a27a2d80-5e76-11eb-9df8-68ead6ca32c1.png)
 
+Mission 2 – 
+
+![image](https://user-images.githubusercontent.com/64529469/105631916-d2c1cc00-5e76-11eb-996a-54078a26c2ce.png)
+
+After clicking on read more >>
+
+![image](https://user-images.githubusercontent.com/64529469/105631941-ed944080-5e76-11eb-96dc-23f625086b4e.png)
+![image](https://user-images.githubusercontent.com/64529469/105631947-f1c05e00-5e76-11eb-85b2-67b8f13c6287.png)
+![image](https://user-images.githubusercontent.com/64529469/105631953-f7b63f00-5e76-11eb-8eab-219d417f8501.png)
+![image](https://user-images.githubusercontent.com/64529469/105631964-00a71080-5e77-11eb-97c9-c75a569d27bf.png)
+![image](https://user-images.githubusercontent.com/64529469/105631971-069cf180-5e77-11eb-9490-4eb0ccb4e408.png)
+![image](https://user-images.githubusercontent.com/64529469/105631982-0f8dc300-5e77-11eb-9a2e-0c8e64596284.png)
+![image](https://user-images.githubusercontent.com/64529469/105631987-13b9e080-5e77-11eb-8d4b-f7c111774708.png)
+
+all the further 5 missions can be visited using these
+
+![image](https://user-images.githubusercontent.com/64529469/105632043-41068e80-5e77-11eb-8dd4-3a9843be5467.png)
+
+Focused Areas of Work – 
+Image (converted to rounded image), text wrapped around circular image.
+Right image alignment
+
+![image](https://user-images.githubusercontent.com/64529469/105632062-5e3b5d00-5e77-11eb-9fa5-b0a114c47411.png)
+
+Left image alignment
+
+![image](https://user-images.githubusercontent.com/64529469/105632077-7612e100-5e77-11eb-866c-3ed774545c50.png)
+
+Footer
+
+![image](https://user-images.githubusercontent.com/64529469/105632101-9e9adb00-5e77-11eb-8591-d77ca71ea26c.png)
+
+Contact Us Page
+
+![image](https://user-images.githubusercontent.com/64529469/105632248-2da7f300-5e78-11eb-867f-901cfe5bf5e3.png)
+![image](https://user-images.githubusercontent.com/64529469/105632282-46b0a400-5e78-11eb-85e4-a4280cd62686.png)
+![image](https://user-images.githubusercontent.com/64529469/105632304-5b8d3780-5e78-11eb-9e74-a53daea121f1.png)
 
 
 
