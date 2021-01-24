@@ -55,3 +55,36 @@ Stories Of Hope
 
 ![image](https://user-images.githubusercontent.com/64529469/105630437-3e07a000-5e6f-11eb-8c6b-4c92132f362b.png)
 
+After clicking on read…
+
+![image](https://user-images.githubusercontent.com/64529469/105630477-7f984b00-5e6f-11eb-84b9-014997757ea9.png)
+![image](https://user-images.githubusercontent.com/64529469/105630498-9c348300-5e6f-11eb-866e-b76e51c1d2d6.png)
+![image](https://user-images.githubusercontent.com/64529469/105630546-e74e9600-5e6f-11eb-8c68-a0023a053413.png)
+![image](https://user-images.githubusercontent.com/64529469/105630556-f3d2ee80-5e6f-11eb-82a6-e263d85b6337.png)
+![image](https://user-images.githubusercontent.com/64529469/105630577-064d2800-5e70-11eb-8b60-03cea744ce7c.png)
+
+Small message with video (home pg)
+
+![image](https://user-images.githubusercontent.com/64529469/105630596-20870600-5e70-11eb-9b19-113edf8811d8.png)
+
+Slideshow of Corona Warriors with appreciation/thank you note
+
+![image](https://user-images.githubusercontent.com/64529469/105630617-3694c680-5e70-11eb-9b62-6f6b8da00efd.png)
+![image](https://user-images.githubusercontent.com/64529469/105630634-4b715a00-5e70-11eb-99fc-7059d266ff19.png)
+
+After clicking on Visit Our Gallery you’ll be directed to gallery page 
+
+![image](https://user-images.githubusercontent.com/64529469/105630653-6643ce80-5e70-11eb-85fd-d4d68f0f39ce.png)
+
+Flip cards and impact used here
+
+![image](https://user-images.githubusercontent.com/64529469/105630674-84113380-5e70-11eb-8ad1-8e7a19ffdfa6.png)
+![image](https://user-images.githubusercontent.com/64529469/105630684-97240380-5e70-11eb-87ce-d4421858952e.png)
+
+Footer
+
+![image](https://user-images.githubusercontent.com/64529469/105630705-aefb8780-5e70-11eb-9f72-27634d0ab4b6.png)
+
+
+
+
