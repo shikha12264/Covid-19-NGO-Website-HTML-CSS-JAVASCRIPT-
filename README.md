@@ -109,5 +109,149 @@ Image and description :
 
 Image and Description :
 
+![image](https://user-images.githubusercontent.com/64529469/105631006-2251c900-5e72-11eb-828d-8b7baa51cd90.png)
+
+Origin of your NGO :
+
+![image](https://user-images.githubusercontent.com/64529469/105631021-47463c00-5e72-11eb-931e-913f251d9f28.png)
+![image](https://user-images.githubusercontent.com/64529469/105631033-54fbc180-5e72-11eb-8773-f7aa2c25ff13.png)
+
+Description :
+
+![image](https://user-images.githubusercontent.com/64529469/105631055-765cad80-5e72-11eb-8ccd-276f57e05d26.png)
+![image](https://user-images.githubusercontent.com/64529469/105631071-88d6e700-5e72-11eb-8d46-c607b7c7f40b.png)
+
+Registration form to become  a Volunteer of our NGO :
+
+![image](https://user-images.githubusercontent.com/64529469/105631093-a1470180-5e72-11eb-9f04-c72df156470a.png)
+
+Footer ;
+
+![image](https://user-images.githubusercontent.com/64529469/105631110-b7ed5880-5e72-11eb-8b70-097fde615280.png)
+
+ABOUT US Page
+
+Navigation and Menu:-
+
+![image](https://user-images.githubusercontent.com/64529469/105631127-d2bfcd00-5e72-11eb-93c1-5e5ae20f0fb2.png)
+
+Our History and how our idea of NGO was turned into reality:-
+
+![image](https://user-images.githubusercontent.com/64529469/105631141-eb2fe780-5e72-11eb-9eb9-7689b0ce1523.png)
+
+How will your Donations be beneficial to the Organisation:-
+
+![image](https://user-images.githubusercontent.com/64529469/105631158-fedb4e00-5e72-11eb-8be9-c67d360481b1.png)
+
+The various Projects undertaken by our NGO:-
+
+![image](https://user-images.githubusercontent.com/64529469/105631167-14507800-5e73-11eb-926c-de635d0159f7.png)
+
+Images of our Volunteers helping needy people:-
+
+![image](https://user-images.githubusercontent.com/64529469/105631174-27fbde80-5e73-11eb-87c4-9eb42f0c4d12.png)
+
+Footer:-
+
+![image](https://user-images.githubusercontent.com/64529469/105631191-3d710880-5e73-11eb-9c32-0d357dea8c15.png)
+
+DONATION PAGE
+Navigation:
+
+When we click on the donate button it directs to donation form below.
+
+![image](https://user-images.githubusercontent.com/64529469/105631205-4feb4200-5e73-11eb-9a6a-6b9bbc90cd5a.png)
+
+Latest Donations:
+It shows the cards of the people that donated recently, when we hover there’s a shadow effect. At the bottom there’s a scroll bar.
+
+![image](https://user-images.githubusercontent.com/64529469/105631220-698c8980-5e73-11eb-9654-418424414a96.png)
+
+About the NGO:
+It has a card that again directs you to the donation forms. And shows the amount raised and the number of donors.
+
+![image](https://user-images.githubusercontent.com/64529469/105631236-7f9a4a00-5e73-11eb-9d68-afb312eccf26.png)
+
+The address at bottom has a typewriter effect:
+
+![image](https://user-images.githubusercontent.com/64529469/105631255-95a80a80-5e73-11eb-9c1c-aea61bc3e44f.png)
+
+In this section, when we click on the image is displayed as follows:
+
+![image](https://user-images.githubusercontent.com/64529469/105631267-afe1e880-5e73-11eb-8fa8-d03575311374.png)
+![image](https://user-images.githubusercontent.com/64529469/105631298-e0298700-5e73-11eb-9cb1-4b0eec0d6624.png)
+![image](https://user-images.githubusercontent.com/64529469/105631322-02bba000-5e74-11eb-8f0d-cc2a21abb602.png)
+
+This section displays by how people can make an online payment.
+
+![image](https://user-images.githubusercontent.com/64529469/105631344-18c96080-5e74-11eb-826e-dd80bba63a89.png)
+
+Donation forms:
+There are two forms. When we choose a option it displays the amount in the Total donation box.
+If the donation button is clicked without entering data it directs you to the empty. All the important fields are set to required.
+
+![image](https://user-images.githubusercontent.com/64529469/105631388-44e4e180-5e74-11eb-80e1-22b789fcd1f4.png)
+
+Details about the online payment and about donate through cheque:
+
+![image](https://user-images.githubusercontent.com/64529469/105631404-5928de80-5e74-11eb-8ee3-60c0e8e9d8c4.png)
+
+Photos:
+When the “VIEW OUR GALLERY” button is clicked it directs to the gallery page. When the images are clicked they are displayed.
+
+![image](https://user-images.githubusercontent.com/64529469/105631433-6f369f00-5e74-11eb-844a-21b920259f94.png)
+![image](https://user-images.githubusercontent.com/64529469/105631445-81b0d880-5e74-11eb-8a16-b0f6ac512dde.png)
+
+Be a Volunteer Form;
+
+![image](https://user-images.githubusercontent.com/64529469/105631474-9b522000-5e74-11eb-9136-2a3d89d3cf68.png)
+
+Footer:
+
+![image](https://user-images.githubusercontent.com/64529469/105631487-b0c74a00-5e74-11eb-8943-5a6818ccc557.png)
+
+GALLERY PAGE
+Used Menu, Image with Transparent text block :
+Text block with linear gradients, section frames with circular images.
+
+![image](https://user-images.githubusercontent.com/64529469/105631509-d2c0cc80-5e74-11eb-9e4c-b3149c73b01b.png)
+
+This gallery section includes all the coverages and footages of our Ngo’s contribution towards helping the poor and the needy during this pandemic situation.
+So, here are the two sections – consisting of photo gallery section and video gallery section 
+
+![image](https://user-images.githubusercontent.com/64529469/105631542-fbe15d00-5e74-11eb-93d1-5eb7c1570148.png)
+
+On clicking photo gallery you’ll be directed to the page including images of charities and donation drives at our foundation.
+Photo gallery page:
+
+Menu with previous button, Image with hover effect
+
+![image](https://user-images.githubusercontent.com/64529469/105631606-44007f80-5e75-11eb-8275-7bb5901d1ef0.png)
+
+Lightbox (Modal Image Gallery) including hover images, slides, previous and next buttons :
+
+![image](https://user-images.githubusercontent.com/64529469/105631630-6397a800-5e75-11eb-8552-5d66d23bcf06.png)
+![image](https://user-images.githubusercontent.com/64529469/105631655-74e0b480-5e75-11eb-89e2-fe684ae9267a.png)
+
+On clicking on any image, a lightbox would appear as shown below.
+(which would include images with text description below and slideshow including slides with previous and next buttons to view these slides) 
+
+![image](https://user-images.githubusercontent.com/64529469/105631669-8fb32900-5e75-11eb-8aae-f17c41d1e8c6.png)
+
+Video Gallery
+On clicking video gallery a page will be opened that will showcase all the coverages of our donation drives, achievements and accomplishments.
+
+![image](https://user-images.githubusercontent.com/64529469/105631687-b1141500-5e75-11eb-9c54-94b98f6346b9.png)
+
+
+
+Slide 1 – 
+
+
+
+
+
+
+
 
 
