@@ -85,6 +85,29 @@ Footer
 
 ![image](https://user-images.githubusercontent.com/64529469/105630705-aefb8780-5e70-11eb-9f72-27634d0ab4b6.png)
 
+HOW IT WORKS Page 
+
+Navigation  and Menu :
+
+![image](https://user-images.githubusercontent.com/64529469/105630909-a788ae00-5e71-11eb-95be-d6dd0fdcee8b.png)
+
+Description:
+
+![image](https://user-images.githubusercontent.com/64529469/105630929-bc654180-5e71-11eb-9c2c-e148a96e2ec3.png)
+
+List of Activities done by our organization and how this NGO actually works and operates , all the information of the following activities is given below:
+
+![image](https://user-images.githubusercontent.com/64529469/105630947-d2730200-5e71-11eb-91c8-392d567e0686.png)
+
+Main goal and purpose of this organization :
+
+![image](https://user-images.githubusercontent.com/64529469/105630963-e3bc0e80-5e71-11eb-8f2b-cfe9eb9e77e4.png)
+
+Image and description :
+
+![image](https://user-images.githubusercontent.com/64529469/105630980-fa626580-5e71-11eb-8116-27ed1c244e00.png)
+
+Image and Description :
 
 
 
