@@ -12,6 +12,8 @@ This NGO website is built using HTML , CSS and Javascript
 1. Home Page	 			2. About Us Page
 3. How it works Page		4. Donation Page
 5. Gallery Page			6. Contact Us Page
+
 HOME PAGE 
-Menu, Slideshow and Description Glowing Text & Cards
-![image](https://user-images.githubusercontent.com/64529469/105627680-44415080-5e5e-11eb-9499-10a13257d30b.png)
+
+Menu, Slideshow and Description Glowing Text & Cards used
+![image](https://user-images.githubusercontent.com/64529469/105627723-8bc7dc80-5e5e-11eb-9f38-5956d350c176.png)
