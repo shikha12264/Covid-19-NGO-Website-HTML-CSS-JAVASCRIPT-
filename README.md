@@ -14,3 +14,4 @@ This NGO website is built using HTML , CSS and Javascript
 5. Gallery Page			6. Contact Us Page
 HOME PAGE 
 Menu, Slideshow and Description Glowing Text & Cards
+![image](https://user-images.githubusercontent.com/64529469/105627680-44415080-5e5e-11eb-9499-10a13257d30b.png)
