@@ -13,7 +13,7 @@ This NGO website is built using HTML , CSS and Javascript
 3. How it works Page		4. Donation Page
 5. Gallery Page			6. Contact Us Page
 
-HOME PAGE 
+# HOME PAGE 
 
 Menu and Slideshow 
 
@@ -85,7 +85,7 @@ Footer
 
 ![image](https://user-images.githubusercontent.com/64529469/105630705-aefb8780-5e70-11eb-9f72-27634d0ab4b6.png)
 
-HOW IT WORKS Page 
+# HOW IT WORKS Page 
 
 Navigation  and Menu :
 
@@ -129,7 +129,7 @@ Footer ;
 
 ![image](https://user-images.githubusercontent.com/64529469/105631110-b7ed5880-5e72-11eb-8b70-097fde615280.png)
 
-ABOUT US Page
+# ABOUT US Page
 
 Navigation and Menu:-
 
@@ -155,7 +155,7 @@ Footer:-
 
 ![image](https://user-images.githubusercontent.com/64529469/105631191-3d710880-5e73-11eb-9c32-0d357dea8c15.png)
 
-DONATION PAGE
+# DONATION PAGE
 Navigation:
 
 When we click on the donate button it directs to donation form below.
@@ -210,7 +210,7 @@ Footer:
 
 ![image](https://user-images.githubusercontent.com/64529469/105631487-b0c74a00-5e74-11eb-8943-5a6818ccc557.png)
 
-GALLERY PAGE
+# GALLERY PAGE
 Used Menu, Image with Transparent text block :
 Text block with linear gradients, section frames with circular images.
 
@@ -308,7 +308,7 @@ Footer
 
 ![image](https://user-images.githubusercontent.com/64529469/105632101-9e9adb00-5e77-11eb-8591-d77ca71ea26c.png)
 
-Contact Us Page
+# Contact Us Page
 
 ![image](https://user-images.githubusercontent.com/64529469/105632248-2da7f300-5e78-11eb-867f-901cfe5bf5e3.png)
 ![image](https://user-images.githubusercontent.com/64529469/105632282-46b0a400-5e78-11eb-85e4-a4280cd62686.png)
