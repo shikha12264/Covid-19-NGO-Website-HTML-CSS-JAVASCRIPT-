@@ -1,7 +1,6 @@
 # Covid-19-NGO-Website-HTML-CSS-JAVASCRIPT-
 HTML-CS-JAVASCRIPT Based website
-
-![image](https://user-images.githubusercontent.com/64529469/105627556-a64d8600-5e5d-11eb-8468-c0eab2dc2992.png)
+https://shikha12264.github.io/Covid-19-NGO-Website-HTML-CSS-JAVASCRIPT-/
 
 Defining this repository is tricky. I hope you like it and if you can improve a component leave me an issue.
 
@@ -14,6 +13,7 @@ This NGO website is built using HTML , CSS and Javascript
 5. Gallery Page			6. Contact Us Page
 
 # HOME PAGE 
+![image](https://user-images.githubusercontent.com/64529469/105627556-a64d8600-5e5d-11eb-8468-c0eab2dc2992.png)
 
 Menu and Slideshow 
 
