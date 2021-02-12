@@ -9,9 +9,9 @@ This project aims at being a complete, end-to-end solution for the functioning, 
 The intent of this project is to provide an efficient tool from the persective of the 5 different types of users: Donors, Volunteers, Fundraisers ,poor and the needy ones and the Management.
 
  (NGO’s website)	
-1. Home Page	 			2. About Us Page
-3. How it works Page		4. Donation Page
-5. Gallery Page			6. Contact Us Page
+1. Home Page	 			         2. About Us Page
+3. How it works Page	    	4. Donation Page
+5. Gallery Page		        	6. Contact Us Page
 
 # HOME PAGE 
 ![image](https://user-images.githubusercontent.com/64529469/105627556-a64d8600-5e5d-11eb-8468-c0eab2dc2992.png)
